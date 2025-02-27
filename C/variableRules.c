@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    int a;
-    int akshay;
-    int a1;
-    int Akshay;
-    int a_1;
+    int a = 1;
+    int akshay = 1;
+    int a1 = 1;
+    int Akshay = 1;
+    int a_1 = 1;
     return 0;
 }
